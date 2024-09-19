@@ -18,8 +18,8 @@
 - 16.00 UTC - End
 ------------
 ## Recording
-{ADD YT LINK]
+- [ADD YT LINK]
 ------------
 See all Cardano Governance Actions at
-https://adastat.net/governances 
+- https://adastat.net/governances 
 ------------
