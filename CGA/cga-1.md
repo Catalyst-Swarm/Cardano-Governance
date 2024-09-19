@@ -7,7 +7,7 @@
 - 15.10 UTC - Governance Action
 > -- GA: Name the next hard fork HOSKY Hard Fork
 > -- Type: Info Action
-W -- https://adastat.net/governances/15f82a365bdee483a4b03873a40d3829cc88c048ff3703e11bd01dd9e035c91600 
+> -- https://adastat.net/governances/15f82a365bdee483a4b03873a40d3829cc88c048ff3703e11bd01dd9e035c91600 
 
 - 15.20 UTC - Governance Action
 > -- GA: Cardanoの生きがい - Ikigai -
