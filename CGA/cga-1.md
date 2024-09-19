@@ -23,3 +23,4 @@
 See all Cardano Governance Actions at
 - https://adastat.net/governances 
 ------------
+This event format has been heavily inspired by Polkadots [AAG](https://www.youtube.com/watch?v=zsL000Zg5OQ&list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV&pp=iAQB), initiated by [The Kusamarian](https://x.com/TheKusamarian) from which we learned and learn a lot for an effective format of this event. 
