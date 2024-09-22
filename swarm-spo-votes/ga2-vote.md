@@ -8,5 +8,5 @@
 |Expires|26/10/2024 / Epoch: 516|
 |Vote|⏹️Abstain|
 |Vote Power|20.94M ADA|
-|Rational||
+|Rational|No strong opinions on Yes/No vote on this proposal. Therefore SWARM pool votes "Abstain"|
 |Shared||
