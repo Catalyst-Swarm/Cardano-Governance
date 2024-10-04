@@ -1,5 +1,5 @@
 # CGA #1
-20/09/2024, 15.00 UTC
+dd/mm/yyyy, 15.00 UTC
 
 ## Agenda:
 - 15.00 UTC - Opening
