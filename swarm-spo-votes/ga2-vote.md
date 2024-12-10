@@ -10,3 +10,4 @@
 |Vote Power|20.94M ADA|
 |Rational|No strong opinions on Yes/No vote on this proposal. Therefore SWARM pool votes "Abstain"|
 |Shared|https://x.com/CatalystSwarm/status/1837782307958059258|
+|Vote Tx|7006c8bba4782d13cc0bd183ba9357d4b34f4eb4617ef85d18aef16b19344b49|
