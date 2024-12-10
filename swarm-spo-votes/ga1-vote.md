@@ -10,3 +10,4 @@
 |Vote Power|20.94M ADA|
 |Rational|While there is no doubt on Hoskies contribution to the Cardano Eocystem, Cardano Hardfork events should not promote any specific token-projects by naming a HF after the projects name|
 |Shared|https://x.com/CatalystSwarm/status/1835247486291624303|
+|Vote Tx|a8e63fbc188e1fb6c391740e6505278676a45bb9caad59a4e01acfc780db5b5a|
